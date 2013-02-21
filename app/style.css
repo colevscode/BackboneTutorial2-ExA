@@ -10,6 +10,10 @@ h1 {
 	max-width: 1280px;
 }
 
+/* Thanks to http://cssdeck.com/labs/css-only-pinterest-style-columns-layout
+   for the example code to create a CSS only pinterest layout. Note that
+   browser compatibility is not guaranteed. Specifically IE 9 won't work. */
+
 #gallery {
     -moz-column-count: 3;
     -moz-column-gap: 10px;

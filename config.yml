@@ -9,7 +9,6 @@
 # will match any path.
 
 scripts:
-- /libraries/backlift-reloader.js
 - /libraries/jquery*.js
 - /libraries/underscore*.js
 - /libraries/backbone*.js
